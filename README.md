@@ -5,4 +5,4 @@
 
 If you're using different browser you can read the [documentation](https://pypi.org/project/webdriver-manager/) 👈
 
-## Happy scraping!💻
+**Happy scraping!💻**
